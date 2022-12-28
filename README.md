@@ -11,7 +11,7 @@ ex ) manta_annotsv_Dec212022_hj.sh -i ../../P1.cram -d ./P1
   -h : show this message
 ```
 
-![image](https://user-images.githubusercontent.com/121307215/209815287-fbd3abff-f8c2-444f-8ec4-798daf179ff2.png)
+![image](https://user-images.githubusercontent.com/121307215/209815820-a832d3e2-83e2-4406-9390-97e4c23e48d4.png)
 
 
 this script makes directory with sampleID as name. finally, the following files are obtained for each sample.  
